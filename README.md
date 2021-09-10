@@ -1,6 +1,6 @@
 #  Analyzing financial inclusion in Kenya, Uganda, Tanzania and Rwanda 
 
-This project was generated with Python, DS Libraties and Jupyter Notebooks
+This project was generated with Python, DS Libraries and Jupyter Notebooks
 
 ### By Cyprian Nyakundi
 
