@@ -8,6 +8,10 @@ This project was generated with Python, DS Libraries and Jupyter Notebooks
 
 This is a python data science project where I was required to  analyze financial inclusion the above named countries and give my expert opinion depending on various variables using univariate, bivariata and multivariate statistics
 
+## Research question 
+
+The research problem is to figure out how we can predict which individuals are most likely to have or use a bank account. 
+
 ## User Requirements
 You must have python and Jupyter notebooks to analyze, peruse and see the analysis.  
 
